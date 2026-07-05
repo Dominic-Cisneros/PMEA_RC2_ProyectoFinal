@@ -2,16 +2,15 @@
 
 Proyecto Final de Programación I.
 
-## Descripción
+## Funciones implementadas
 
-Este programa permitirá administrar los libros de una biblioteca.
+- Menú principal
+- Registrar libros
+- Mostrar libros
 
-## Funciones planificadas
+## Funciones pendientes
 
-- Registrar libros.
-- Mostrar libros.
-- Buscar libros.
-- Editar libros.
-- Eliminar libros.
-
-Desarrollado en lenguaje C.
+- Buscar libros
+- Editar libros
+- Eliminar libros
+- Guardar información en archivos
