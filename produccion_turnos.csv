@@ -1,0 +1,4 @@
+codigo_registro,fecha,centro_costo,turno,materia_prima_kg,desperdicio_kg,tiempo_min,unidades_producidas
+R001;15/01/2026;M-101;1;1200.00;36.50;480;520
+R002;5/01/2026;M-101;2;1100.00;28.00;470;505
+R003;25/01/2026;M-101;3;1000.00;45.00;450;480
