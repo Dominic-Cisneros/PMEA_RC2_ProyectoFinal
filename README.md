@@ -1,16 +1,19 @@
-# Sistema de Biblioteca
+# Control de Producción por Turno
 
 Proyecto Final de Programación I.
 
-## Funciones implementadas
+## Funcionalidades
 
-- Menú principal
-- Registrar libros
-- Mostrar libros
+- Registrar turno
+- Listar registros
+- Buscar registro
+- Actualizar registro
+- Eliminar registro
+- Reporte por centro de costo
+- Guardar cambios
+- Salir
 
-## Funciones pendientes
+## Autores
 
-- Buscar libros
-- Editar libros
-- Eliminar libros
-- Guardar información en archivos
+- Christopher Leonardo Espin Sotalin
+- Dominic Cisneros
